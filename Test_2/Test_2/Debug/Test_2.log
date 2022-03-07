@@ -1,0 +1,5 @@
+﻿  Test2.c
+c:\users\apc\desktop\testc-c++\test_2\test_2\test2.c(9): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint16_t *'
+  c:\users\apc\desktop\testc-c++\test_2\test_2\test2.c(9): note: consider using '%hd' in the format string
+c:\users\apc\desktop\testc-c++\test_2\test_2\test2.c(10): warning C4133: 'initializing': incompatible types - from 'uint16_t *' to 'uint8_t *'
+  Test_2.vcxproj -> C:\Users\APC\Desktop\TestC-C++\Test_2\Debug\Test_2.exe

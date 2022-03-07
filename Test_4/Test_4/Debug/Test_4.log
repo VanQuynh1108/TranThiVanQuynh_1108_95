@@ -1,0 +1,4 @@
+﻿  Test4.cpp
+c:\users\apc\desktop\testc-c++\test_4\test_4\test4.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\apc\desktop\testc-c++\test_4\test_4\test4.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Test_4.vcxproj -> C:\Users\APC\Desktop\TestC-C++\Test_4\Debug\Test_4.exe
